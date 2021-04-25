@@ -3,4 +3,5 @@
 * Last ned GitHub Desktop
 * Clon repoet
 * Fjern punkter i listen etterhvert som de er utført
-* Legg til nye punkter i listen
+* Commit endringene lokalt (til main)
+* Push endringene til 

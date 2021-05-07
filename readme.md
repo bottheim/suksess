@@ -12,5 +12,4 @@
 |data11|data12|data13|
 
 1. Test
-2. Test 2
 2. Test 3
